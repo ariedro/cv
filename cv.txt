@@ -50,7 +50,7 @@ Experience
     Highlights
       - Provided technical leadership, roadmap planning and guidance to development teams
       - Contributed to the development and migration of projects from monolithic cores to modern microservices, working on architecture design and coding implementation
-      - Improved projects security and stability by patching vulnerabilities and bug fixes, as well as updating and maintaining servers infrastructure
+      - Improved the security and stability of multiple projects by patching vulnerabilities and bug fixes, as well as updating and maintaining servers infrastructure
 
   Personal Flow
   -------------
