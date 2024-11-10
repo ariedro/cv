@@ -1,0 +1,129 @@
+=============
+Ariel Aguirre
+=============
+
+Full Stack Developer
+====================
+
+About me
+========
+
+  I'm a software developer from Argentina with a strong background in web applications, covering both back-end and front-end development, with experience in cloud technologies and blockchain integrations.
+  Also I enjoy exploring topics like game programming, graphics, networking, and low-level programming.
+  I'm always open to expanding my horizons and learning new things.
+
+  Location
+    Buenos Aires, Argentina
+
+  Site
+    https://ariedro.dev/
+
+
+Contact
+=======
+
+  Email
+    mailto:ariedro@gmail.com
+
+  LinkedIn
+    https://www.linkedin.com/in/ariedro/
+
+  Telegram
+    https://t.me/ariedro
+
+  GitHub
+    https://github.com/ariedro/
+
+
+Experience
+==========
+
+  Altoros
+  -------
+
+    Period
+      2021 - 2024
+
+    Site
+      https://www.altoros.com/
+
+    Highlights
+      - Provided technical leadership, roadmap planning and guidance to development teams
+      - Contributed to the development and migration of projects from monolithic cores to modern microservices, working on architecture design and coding implementation
+      - Improved projects security and stability by patching vulnerabilities and bug fixes, as well as updating and maintaining servers infrastructure
+
+  Personal Flow
+  -------------
+
+    Period
+      2020 - 2021
+
+    Site
+      https://www.flow.com.ar/
+
+    Highlights
+      - Managed a microservices-based system and participated in the migration of it to a modern infrastructure
+      - Developed tools to improve and extend the CI and deployment control
+      - Contributed to support and issue fixing of back-end API web services
+
+  Atix Labs (now part of Globant)
+  -------------------------------
+
+    Period
+      2018 - 2020
+
+    Site
+      https://www.globant.com/studio/blockchain/
+
+    Highlights
+      - Contributed to the development of various MVP web applications, overseeing front-end and back-end design and implementation, as well as database schema design
+      - Worked on crypto DeFi apps with smart contract integrations, as well as encryption schemes for file sharing
+      - Developed React Native applications for Android and iOS front-ends
+
+
+Education
+=========
+
+  University of Buenos Aires
+  --------------------------
+
+    Career
+      Software Engineering
+
+    Period
+      2016 - In progress
+
+    Site
+      https://fi.uba.ar/
+
+
+Technologies
+============
+
+  Languages
+    JavaScript, TypeScript, Golang, HTML, CSS, Bash, SQL, Python
+
+  Frameworks
+    Node.js, React, Nest, Meteor, Sails.js, React Native
+
+  Database Management
+    PostgreSQL, MongoDB, Firestore, SQLite
+
+  Cloud Related
+    Docker, AWS, Google Cloud Platform, nginx
+
+  Programming Related
+    REST, Git, Express.js, Fastify, GraphQL, Blockchain
+
+  Metodologies
+    Agile, Scrum, TDD, Kanban
+
+
+Languages
+=========
+
+  English
+    Fluent
+
+  Spanish
+    Native

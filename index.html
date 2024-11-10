@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Ariel Aguirre</title>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1"
+    />
+
+    <style>
+      :root {
+        color-scheme: light dark;
+        --base03: #002b36;
+        --base02: #073642;
+        --base01: #586e75;
+        --base00: #657b83;
+        --base0: #839496;
+        --base1: #93a1a1;
+        --base2: #eee8d5;
+        --base3: #fdf6e3;
+        --green: #859900;
+        --red: #dc322f;
+      }
+
+      body {
+        max-width: 900px;
+        margin: auto;
+        background-color: light-dark(var(--base2), var(--base03));
+      }
+
+      .content {
+        background-color: light-dark(var(--base3), var(--base02));
+        padding: 20px;
+        color: light-dark(var(--base00), var(--base0));
+      }
+
+      h1 {
+        color: light-dark(var(--base03), var(--base3));
+        margin: 15px 0;
+        margin-right: auto;
+      }
+      h2 {
+        color: light-dark(var(--base02), var(--base2));
+        margin: auto;
+      }
+      h3 {
+        color: light-dark(var(--base01), var(--base1));
+        margin: auto;
+        margin-top: 16px;
+      }
+      h4 {
+        color: light-dark(var(--base00), var(--base0));
+        margin: auto;
+      }
+      h5 {
+        color: light-dark(var(--base0), var(--base00));
+        margin: auto;
+      }
+      a {
+        color: var(--green);
+      }
+      p {
+        color: light-dark(var(--base01), var(--base1));
+        margin: 8px 0;
+      }
+      section {
+        margin: 5px 10px;
+      }
+      ul {
+        margin: 0;
+      }
+      li {
+        margin: 4px 0;
+      }
+      .banner {
+        display: flex;
+        gap: 4px;
+      }
+      .banner > h1 {
+        margin-left: 0;
+      }
+      .banner > h2 {
+        margin-left: 0;
+      }
+      .biglist {
+        list-style: none;
+        padding-left: 0;
+      }
+      .smalllist {
+        padding-left: 30px;
+      }
+      .smalllist > li::marker {
+        color: var(--red);
+      }
+      .dated {
+        display: flex;
+      }
+      .dated > h4 {
+        margin-left: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="content">
+      <div class="banner">
+        <h1>Ariel Aguirre</h1>
+        <div class="formats">
+          [<a href="./cv.txt">TXT</a>] [<a href="./cv.pdf">PDF</a>]
+        </div>
+      </div>
+      <div class="banner">
+        <h2>Full Stack Developer</h2>
+        <a href="mailto:ariedro@gmail.com"><img src="./assets/email.png" /></a>
+        <a href="https://github.com/ariedro/"
+          ><img src="./assets/github.png"
+        /></a>
+        <a href="https://www.linkedin.com/in/ariedro/"
+          ><img src="./assets/linkedin.png"
+        /></a>
+        <a href="https://t.me/ariedro"><img src="./assets/telegram.png" /></a>
+        <a href="https://ariedro.dev/"><img src="./assets/web.png" /></a>
+      </div>
+      <hr />
+      <p>
+        I'm a software developer from Argentina with a strong background in web
+        applications, covering both back-end and front-end development, with
+        experience in cloud technologies and blockchain integrations.
+      </p>
+      <p>
+        Also I enjoy exploring topics like game programming, graphics,
+        networking, and low-level programming.
+      </p>
+      <p>I'm always open to expanding my horizons and learning new things.</p>
+      <h3>Experience</h3>
+      <section>
+        <section>
+          <div class="dated">
+            <h4><a href="https://www.altoros.com">Altoros</a></h4>
+            <i>(2021 - 2024)</i>
+          </div>
+          <h5><i>Full Stack Software Developer</i></h5>
+          <ul class="smalllist">
+            <li>
+              Provided technical leadership, roadmap planning and guidance to
+              development teams
+            </li>
+            <li>
+              Contributed to the development and migration of projects from
+              monolithic cores to modern microservices, working on architecture
+              design and coding implementation
+            </li>
+            <li>
+              Improved projects security and stability by patching
+              vulnerabilities and bug fixes, as well as updating and maintaining
+              servers infrastructure
+            </li>
+          </ul>
+        </section>
+        <section>
+          <div class="dated">
+            <h4><a href="https://www.flow.com.ar/">Personal Flow</a></h4>
+            <i>(2020 - 2021)</i>
+          </div>
+          <h5><i>Back End Software Developer</i></h5>
+          <ul class="smalllist">
+            <li>
+              Managed a microservices-based system and participated in the
+              migration of it to a modern infrastructure
+            </li>
+            <li>
+              Developed tools to improve and extend the CI and deployment
+              control
+            </li>
+            <li>
+              Contributed to support and issue fixing of back-end API web
+              services
+            </li>
+          </ul>
+        </section>
+        <section>
+          <div class="dated">
+            <h4>
+              <a href="https://www.globant.com/studio/blockchain/"
+                >Atix Labs (now part of Globant)</a
+              >
+            </h4>
+            <i>(2018 - 2020)</i>
+          </div>
+          <h5><i>Full Stack Software Developer</i></h5>
+          <ul class="smalllist">
+            <li>
+              Contributed to the development of various MVP web applications,
+              overseeing front-end and back-end design and implementation, as
+              well as database schema design
+            </li>
+            <li>
+              Worked on crypto DeFi apps with smart contract integrations, as
+              well as encryption schemes for file sharing
+            </li>
+            <li>
+              Developed React Native applications for Android and iOS front-ends
+            </li>
+          </ul>
+        </section>
+      </section>
+      <h3>Education</h3>
+      <section>
+        <div class="dated">
+          <h4><a href="https://fi.uba.ar/">University of Buenos Aires</a></h4>
+          <i>(2016 - In progress)</i>
+        </div>
+        <h5><i>Software Engineering</i></h5>
+      </section>
+      <h3>Technologies</h3>
+      <section>
+        <ul class="biglist">
+          <li>
+            <b>Languages:</b> JavaScript, TypeScript, Golang, HTML, CSS, Bash,
+            SQL, Python
+          </li>
+          <li>
+            <b>Frameworks:</b> Node.js, React, Nest, Meteor, Sails.js, React
+            Native
+          </li>
+          <li>
+            <b>Database Management:</b> PostgreSQL, MongoDB, Firestore, SQLite
+          </li>
+          <li>
+            <b>Cloud Related:</b> Docker, AWS, Google Cloud Platform, nginx
+          </li>
+          <li>
+            <b>Programming Related:</b> REST, Git, Express.js, Fastify, GraphQL,
+            Blockchain
+          </li>
+          <li><b>Metodologies:</b> Agile, Scrum, TDD, Kanban</li>
+        </ul>
+      </section>
+      <h3>Languages</h3>
+      <section>
+        <ul class="biglist">
+          <li><b>English:</b> Fluent</li>
+          <li><b>Spanish:</b> Native</li>
+        </ul>
+      </section>
+    </div>
+  </body>
+</html>
