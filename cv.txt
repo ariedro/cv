@@ -51,6 +51,7 @@ Experience
       - Provided technical leadership, roadmap planning and guidance to development teams
       - Contributed to the development and migration of projects from monolithic cores to modern microservices, working on architecture design and coding implementation
       - Improved the security and stability of multiple projects by patching vulnerabilities and bug fixes, as well as updating and maintaining servers infrastructure
+      - Used: Node.js, React, TypeScript, JavaScript, Express.js, Google Cloud, AWS, Firebase, PostgreSQL, Docker, jQuery, Nest.js, GraphQL
 
   Personal Flow
   -------------
@@ -65,6 +66,7 @@ Experience
       - Managed a microservices-based system and participated in the migration of it to a modern infrastructure
       - Developed tools to improve and extend the CI and deployment control
       - Contributed to support and issue fixing of back-end API web services
+      - Used: Golang, Node.js, JavaScript, Fastify, Kubernetes
 
   Atix Labs (now part of Globant)
   -------------------------------
@@ -79,7 +81,7 @@ Experience
       - Contributed to the development of various MVP web applications, overseeing front-end and back-end design and implementation, as well as database schema design
       - Worked on crypto DeFi apps with smart contract integrations, as well as encryption schemes for file sharing
       - Developed React Native applications for Android and iOS front-ends
-
+      - Used: Node.js, React, JavaScript, Express.js, PostgreSQL, Expo, GraphQL, Meteor.js, MongoDB, React Native, Sails.js, Solidity, Web3.js
 
 Education
 =========
