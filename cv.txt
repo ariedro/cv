@@ -47,11 +47,44 @@ Experience
     Site
       https://www.altoros.com/
 
-    Highlights
-      - Provided technical leadership, roadmap planning and guidance to development teams
-      - Contributed to the development and migration of projects from monolithic cores to modern microservices, working on architecture design and coding implementation
-      - Improved the security and stability of multiple projects by patching vulnerabilities and bug fixes, as well as updating and maintaining servers infrastructure
-      - Used: Node.js, React, TypeScript, JavaScript, Express.js, Google Cloud, AWS, Firebase, PostgreSQL, Docker, jQuery, Nest.js, GraphQL
+    Projects
+
+      Ergotron Snowball
+      -----------------
+
+      Site
+        https://www.ergotron.com/
+
+      Highlights
+        - Provided technical leadership, roadmap planning and guidance to development teams
+        - Contributed to the development and migration from a monolithic core to modern microservices based on AWS, working on architecture design and coding implementation
+        - Implemented frontend components and general architecture on a React and TypeScript stack
+        - Used: Node.js, TypeScript, AWS, React
+
+      Ergotron eKinnex
+      ----------------
+
+      Site
+        https://www.ergotron.com/ekinnex/
+
+      Highlights
+        - Improved the security and stability of production environment by patching vulnerabilities and bug fixes, as well as updating and maintaining servers infrastructure
+        - Contributed to the development and migration from a monolithic core to modern microservices based on Google Cloud, working on coding implementation
+        - Designed a new frontend model architecture to optimize the initial page load and facilitate its future maintenance
+        - Implemented backend functionalities and frontend components on a Firebase and React based stack
+        - Used: Node.js, TypeScript, Google Cloud, Firebase, React
+
+      iFit
+      ----
+
+      Site
+        https://www.ifit.com/
+
+      Highlights
+        - Managed a microservices-based system and participated in the expansion of it with the migration of several features
+        - Worked with security specialists to reduce the number of system vulnerabilities, patching them and resolving issues
+        - Implemented new functionalities on a jQuery based frontend
+        - Used: Node.js, TypeScript, Nest.js, Express.js, React, jQuery, Docker
 
   Personal Flow
   -------------
@@ -63,7 +96,8 @@ Experience
       https://www.flow.com.ar/
 
     Highlights
-      - Managed a microservices-based system and participated in the migration of it to a modern infrastructure
+      - Managed a microservices-based system and participated in the development of it
+      - Managed support for an application with extremely high user demand
       - Developed tools to improve and extend the CI and deployment control
       - Contributed to support and issue fixing of back-end API web services
       - Used: Golang, Node.js, JavaScript, Fastify, Kubernetes
@@ -77,11 +111,54 @@ Experience
     Site
       https://www.globant.com/studio/blockchain/
 
-    Highlights
-      - Contributed to the development of various MVP web applications, overseeing front-end and back-end design and implementation, as well as database schema design
-      - Worked on crypto DeFi apps with smart contract integrations, as well as encryption schemes for file sharing
-      - Developed React Native applications for Android and iOS front-ends
-      - Used: Node.js, React, JavaScript, Express.js, PostgreSQL, Expo, GraphQL, Meteor.js, MongoDB, React Native, Sails.js, Solidity, Web3.js
+    Projects
+
+      Cardano Explorer
+      ----------------
+
+      Site
+        https://adastat.net/
+
+      Highlights
+        - Designed new schemas for the database model, as well as GraphQL implementation
+        - Development of aggregation processes between different microservices
+        - Participated on the design of React based frontend pages and components.
+        - Implemented new graphics and metrics for complex market analysis
+        - Used: Node.js, TypeScript, React, GraphQL, PostgreSQL
+
+      Briken
+      ------
+
+      Site
+        https://briken.io/
+
+      Highlights
+        - Participated on the design of a frontend React based page, as well as its structure
+        - Programmed ERC-20 contracts on Solidty, as well as their integration with web3.js
+        - Optimized the bundle size of the page for a fast and efficient user experience
+        - Used: Node.js, Solidity, Web3.js, React, Meteor.js, MongoDB
+
+      Red Link - Identidad Digital
+      ----------------------------
+
+      Highlights
+        - Participated in the development of the MVP product, designing and coding both backend and frontend
+        - Designed the database model schema and relationships, as well as its controllers
+        - Implemented encryption schemes for file sharing using AES and ECIES cryptographic specifications
+        - Integrated native modules in Android with React Native
+        - Used: Node.js, React, React Native, Expo, Android SDK, ECDH and AES encryption libraries, Sails.js, Express.js, PostgreSQL
+
+      FinanciaClick
+      -------------
+
+      Site
+        https://financiaclick.bcr.com.ar/
+
+      Highlights
+        - Participated in the development of the MVP product, designing and coding both backend and frontend
+        - Designed the database model schema and relationships, as well as its controllers
+        - Deploying and production environment support
+        - Used: Node.js, React, Sails.js, Express.js, PostgreSQL
 
 Education
 =========
