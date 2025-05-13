@@ -38,6 +38,29 @@ Contact
 Experience
 ==========
 
+  Devlights
+  -------
+
+    Period
+      2025 -
+
+    Site
+      https://www.devlights.com/
+
+    Projects
+
+      MMA
+      ---
+
+      Site
+        https://www.motomecanica.com/en/
+
+      Highlights
+        - Developed data processors in IoT devices critical to the operation of oil and gas equipment
+        - Implemented frontend components and backend functionalities on a Nest, React and TypeScript stack
+        - Improved the security and stability of production environment by patching vulnerabilities and bug fixes
+        - Used: Node.js, TypeScript, Nest.js, React, Next.js, AWS
+
   Altoros
   -------
 
